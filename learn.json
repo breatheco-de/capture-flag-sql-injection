@@ -1,0 +1,19 @@
+{
+  "slug": "gossip-lab-sql-injection",
+  "title": {
+    "es": "GOSSIP Lab- Inyección SQL",
+    "us": "GOSSIP Lab- SQL injection"
+  },
+  "preview": "https://github.com/4GeeksAcademy/capture-flag-sql-injection/blob/main/assets/preview.png?raw=true",
+  "solution":{ 
+    "us":"https://github.com/4GeeksAcademy/capture-flag-sql-injection/blob/solution/SOLUTION.md",
+    "es":"https://github.com/4GeeksAcademy/capture-flag-sql-injection/blob/solution/SOLUTION.es.md"},
+  "technologies": ["cybersecurity", "sql-injection", "owasp-a03-injection", "md5", "linux", "red-team"],
+  "difficulty": "intermediate",
+  "duration": 2,
+  "projectType": "capture-the-flag",
+  "description": {
+    "es": "Investiga una aplicación web vulnerable a SQL Injection, accede a datos internos del hotel Alabama Suites y descubre quién sabotea a Diego analizando los paneles de los usuarios.",
+    "us": "Investigate a web application vulnerable to SQL Injection, access internal data from the Alabama Suites hotel system, and uncover who is sabotaging Diego by analyzing user panels."
+  }
+}
