@@ -15,5 +15,13 @@
   "description": {
     "es": "Investiga una aplicación web vulnerable a SQL Injection, accede a datos internos del hotel Alabama Suites y descubre quién sabotea a Diego analizando los paneles de los usuarios.",
     "us": "Investigate a web application vulnerable to SQL Injection, access internal data from the Alabama Suites hotel system, and uncover who is sabotaging Diego by analyzing user panels."
-  }
+  },
+  "delivery": {
+		"instructions": {
+			"us": "Paste the flag you found with format FLAG{hash}",
+			"es": "Agrega la bandera que encontraste con el formato FLAG{hash}"
+		},
+		"formats": ["flags"],
+		"quantity": 1
+	}
 }
